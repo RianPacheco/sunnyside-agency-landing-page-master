@@ -4,7 +4,7 @@
 
 ## Bem-vindo! 👋
 
-link para o projeto = https://rianpacheco.github.io/product-preview-card-component-main-new
+link para o projeto = https://rianpacheco.github.io/sunnyside-agency-landing-page-master
 
 Obrigado por conferir este desafio de codificação de front-end.
 
