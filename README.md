@@ -1,4 +1,4 @@
-# Frontend Mentor - Componente do cartão de visualização do produto Ⓒ Rian Pacheco
+# Frontend Mentor - mestre da página de destino da agência sunnyside Ⓒ Rian Pacheco
 
 ![Visualização do design para o desafio de codificação do componente do cartão de visualização do produto](./design/desktop-preview.jpg)
 
