@@ -6,7 +6,7 @@
 
  Projeto feito 100% para didática e colocar em pratica as tecnologias em front-end.
 
- Projeto feito do Desafio do Servidor Dev Quest..
+ Projeto feito do Desafio do Frontend Mentor.
 
 ## Preview Desktop
 
