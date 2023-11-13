@@ -2,20 +2,31 @@
 
 ![Visualização do design para o desafio de codificação do componente do cartão de visualização do produto](./design/desktop-preview.jpg)
 
-## Bem-vindo! 👋
+### link do projeto - https://rianpacheco.github.io/Mini-Portfolio/
 
-link para o projeto = https://rianpacheco.github.io/sunnyside-agency-landing-page-master
+ Projeto feito 100% para didática e colocar em pratica as tecnologias em front-end.
 
-Obrigado por conferir este desafio de codificação de front-end.
+ Projeto feito do Desafio do Servidor Dev Quest..
 
-Os desafios do [Frontend Mentor](https://www.frontendmentor.io) ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
+## Preview Desktop
 
-**Para fazer esse desafio, você precisa ter um conhecimento básico de HTML e CSS e JavaScript.
-Site totalmente responsivo.**
+<img src="./src/assets/imagens/Preview-Desktop.PNG">
+<img src="./src/assets/imagens/Preview-Desktop(2).PNG">
 
-## O desafio
+## Preview Mobile
 
-Seu desafio é construir este componente de cartão de pré-visualização do produto e fazê-lo parecer o mais próximo possível do design.
+<img src="./src/assets/imagens/Preview-Mobile.PNG"><img src="./src/assets/imagens/Preview-Mobile(2).PNG">
 
-Você pode usar qualquer ferramenta que desejar para ajudá-lo a completar o desafio. Então, se você tem algo que gostaria de praticar, sinta-se à vontade para tentar.
+# Tecnologias utilizadas
 
+## Front end
+- HTML
+- CSS
+- JAVASCRIPT
+
+## Implantação em produção
+- Front end web: GitHub.Io
+
+# Autor
+
+&copy; <a href="https://www.linkedin.com/in/rian-pacheco/"> Rian Pacheco</a>
