@@ -2,7 +2,7 @@
 
 ![Visualização do design para o desafio de codificação do componente do cartão de visualização do produto](./design/desktop-preview.jpg)
 
-### link do projeto - https://rianpacheco.github.io/Mini-Portfolio/
+### link do projeto - https://rianpacheco.github.io/sunnyside-agency-landing-page-master
 
  Projeto feito 100% para didática e colocar em pratica as tecnologias em front-end.
 
