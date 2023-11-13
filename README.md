@@ -10,12 +10,24 @@
 
 ## Preview Desktop
 
-<img src="./src/assets/imagens/Preview-Desktop.PNG">
-<img src="./src/assets/imagens/Preview-Desktop(2).PNG">
+<img src="./images/Previews/Desktop1.PNG">
+<img src="./images/Previews/Desktop2.PNG">
+<img src="./images/Previews/Desktop3.PNG">
+<img src="./images/Previews/Desktop4.PNG">
+<img src="./images/Previews/Desktop5.PNG">
+<img src="./images/Previews/Desktop6.PNG">
+
 
 ## Preview Mobile
 
-<img src="./src/assets/imagens/Preview-Mobile.PNG"><img src="./src/assets/imagens/Preview-Mobile(2).PNG">
+<img src="./images/Previews/Mobile1.PNG">
+<img src="./images/Previews/Mobile2.PNG">
+<img src="./images/Previews/Mobile3.PNG">
+<img src="./images/Previews/Mobile4.PNG">
+<img src="./images/Previews/Mobile5.PNG">
+<img src="./images/Previews/Mobile6.PNG">
+
+
 
 # Tecnologias utilizadas
 
