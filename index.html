@@ -31,7 +31,7 @@
           </ul>
         </nav>
         <img
-          src="images/icon-hamburger.svg"
+          src="./images/icon-hamburger.svg"
           alt="hamburger"
           class="mobile-menu"
           id="menu"
@@ -39,20 +39,9 @@
       </header>
       <div class="header-text">
         <h1>We are creatives</h1>
-        <img src="images/icon-arrow-down.svg" alt="icon arrow down" />
+        <img src="./images/icon-arrow-down.svg" alt="icon arrow down" />
       </div>
     </section>
-
-    <div class="mobile-nav" id="mobileNav">
-      <nav>
-        <ul>
-          <li><a href="#">About</a></li>
-          <li><a href="#">Services</a></li>
-          <li><a href="#">Projects</a></li>
-          <li><a href="#">Contact</a></li>
-        </ul>
-      </nav>
-    </div>
 
     <section class="caracter">
       <article>
@@ -75,7 +64,7 @@
               srcset="images/mobile/image-transform.jpg"
             />
             <img
-              src="images/desktop/image-transform.jpg"
+              src="./images/desktop/image-transform.jpg"
               alt="transform image"
             />
           </picture>
@@ -90,7 +79,7 @@
               srcset="images/mobile/image-stand-out.jpg"
             />
             <img
-              src="images/desktop/image-stand-out.jpg"
+              src="./images/desktop/image-stand-out.jpg"
               alt="stand out imnage"
             />
           </picture>
@@ -170,44 +159,56 @@
       </div>
     </section>
 
-    <div class="gallery">
-      <picture>
-        <source
-          media="(max-width:"
-          375px)
-          srcset="images/mobile/image-gallery-milkbottles.jpg"
+    <section id="img-section">
+      <div class="bottom-img">
+        <img
+          class="desktop-img"
+          src="./images/desktop/image-gallery-milkbottles.jpg"
+          alt=""
         />
         <img
-          src="images/desktop/image-gallery-milkbottles.jpg"
-          alt="milk bottle"
+          class="mobile-img"
+          src="./images/mobile/image-gallery-milkbottles.jpg"
+          alt=""
         />
-      </picture>
-      <picture>
-        <source
-          media="max-width: 375px"
-          srcset="images/mobile/image-gallery-orange.jpg"
-        />
-        <img src="images/desktop/image-gallery-orange.jpg" alt="orange" />
-      </picture>
-      <picture>
-        <source
-          media="max-width: 375px"
-          srcset="images/mobile/image-gallery-cone.jpg"
-        />
-        <img src="images/desktop/image-gallery-cone.jpg" alt="ice cream cone" />
-      </picture>
-      <picture>
-        <source
-          media="(max-width:"
-          375px)
-          srcset="images/mobile/image-gallery-sugarcubes.jpg"
+      </div>
+      <div class="bottom-img">
+        <img
+          class="desktop-img"
+          src="./images/desktop/image-gallery-orange.jpg"
+          alt=""
         />
         <img
-          src="images/desktop/image-gallery-sugarcubes.jpg"
-          alt="sugar cubes"
+          class="mobile-img"
+          src="./images/mobile/image-gallery-orange.jpg"
+          alt=""
         />
-      </picture>
-    </div>
+      </div>
+      <div class="bottom-img">
+        <img
+          class="desktop-img"
+          src="./images/desktop/image-gallery-cone.jpg"
+          alt=""
+        />
+        <img
+          class="mobile-img"
+          src="./images/mobile/image-gallery-cone.jpg"
+          alt=""
+        />
+      </div>
+      <div class="bottom-img">
+        <img
+          class="desktop-img"
+          src="./images/desktop/image-gallery-sugarcubes.jpg"
+          alt=""
+        />
+        <img
+          class="mobile-img"
+          src="./images/mobile/image-gallery-sugar-cubes.jpg"
+          alt=""
+        />
+      </div>
+    </section>
 
     <footer>
       <nav>
@@ -251,7 +252,5 @@
         >.
       </div>
     </footer>
-
-    <script src="index.js"></script>
   </body>
 </html>

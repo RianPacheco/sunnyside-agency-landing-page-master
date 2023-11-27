@@ -13,7 +13,7 @@ body {
 .cabe {
   height: 100vh;
   padding: 2.5rem;
-  background-image: url(images/desktop/image-header.jpg);
+  background-image: url(../images/desktop/image-header.jpg);
   background-position: center;
   background-size: cover;
   position: relative;
@@ -296,22 +296,28 @@ body {
   font-family: "Barlow", sans-serif;
 }
 
-.gallery {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  height: 70vh;
-  overflow: hidden;
+#img-section {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
 }
 
-.gallery picture {
-  flex-basis: 33%;
+.bottom-img {
   height: 100%;
 }
 
-.gallery picture img {
+.bottom-img img {
+  max-width: 100%;
   width: 100%;
   height: 100%;
+  object-fit: cover;
+}
+
+.desktop-img {
+  display: block;
+}
+
+.mobile-img {
+  display: none;
 }
 
 /* Footer starts here */
@@ -530,15 +536,12 @@ footer .attribution a:hover {
     font-size: 0.7rem;
   }
 
-  .gallery {
-    height: 80vh;
-    flex-wrap: wrap;
-    overflow: visible;
+  .mobile-img {
+    display: block;
   }
 
-  .gallery picture {
-    flex-basis: 50%;
-    height: 50%;
+  .desktop-img {
+    display: none;
   }
 
   footer {
