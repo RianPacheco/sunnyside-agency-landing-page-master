@@ -1,21 +1,31 @@
 # Frontend Mentor - mestre da página de destino da agência sunnyside Ⓒ Rian Pacheco
 
-![Visualização do design para o desafio de codificação do componente do cartão de visualização do produto](./design/desktop-preview.jpg)
-
 ### link do projeto - https://rianpacheco.github.io/sunnyside-agency-landing-page-master
 
  Projeto feito 100% para didática e colocar em pratica as tecnologias em front-end.
 
- Projeto feito do Desafio do Servidor Dev Quest..
+ Projeto feito do Desafio do Frontend Mentor.
 
 ## Preview Desktop
 
-<img src="./src/assets/imagens/Preview-Desktop.PNG">
-<img src="./src/assets/imagens/Preview-Desktop(2).PNG">
+<img src="./images/Previews/Desktop1.PNG">
+<img src="./images/Previews/Desktop2.PNG">
+<img src="./images/Previews/Desktop3.PNG">
+<img src="./images/Previews/Desktop4.PNG">
+<img src="./images/Previews/Desktop5.PNG">
+<img src="./images/Previews/Desktop6.PNG">
+
 
 ## Preview Mobile
 
-<img src="./src/assets/imagens/Preview-Mobile.PNG"><img src="./src/assets/imagens/Preview-Mobile(2).PNG">
+<img src="./images/Previews/Mobile1.PNG">
+<img src="./images/Previews/Mobile2.PNG">
+<img src="./images/Previews/Mobile3.PNG">
+<img src="./images/Previews/Mobile4.PNG">
+<img src="./images/Previews/Mobile5.PNG">
+<img src="./images/Previews/Mobile6.PNG">
+
+
 
 # Tecnologias utilizadas
 
